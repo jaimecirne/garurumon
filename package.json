@@ -140,6 +140,7 @@
     "@rockset/client": "^0.9.1",
     "@supabase/supabase-js": "^2.10.0",
     "@tensorflow/tfjs-backend-cpu": "^4.4.0",
+    "@types/chroma-js": "^2.4.3",
     "@upstash/redis": "^1.20.6",
     "@vercel/kv": "^0.2.3",
     "@xata.io/client": "^0.28.0",
